@@ -24,7 +24,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: rgb(11, 194, 41);
+    background: #abe424fd;
     border-radius: 15px;
     margin: 15px 440px;
     padding: 10px;
@@ -33,7 +33,7 @@
   .opcion {
     text-align: center;
     width: 30vw;
-    background: rgb(210, 222, 37);
+    background: #2db718fd;
     
     border-radius: 15px;
     margin: 15px 560px;
