@@ -5,7 +5,7 @@
   body {
     margin: 0;
     padding: 0;
-    background-color: steelblue;
+    background-color: rgb(0, 157, 26);;
     background-image: url(https://i.ibb.co/VDQRzzP/IMG-20220915-161127.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -18,25 +18,25 @@
   }
   
   #encabezado {
-    width: 80vw;
-    min-height: 200px;
+    width: 50vw;
+    min-height: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: white;
-    border-radius: 10px;
-    margin: 10px;
+    background: rgb(11, 194, 41);
+    border-radius: 15px;
+    margin: 15px 440px;
     padding: 10px;
   }
   
   .opcion {
     text-align: center;
-    width: 70vw;
-    background: white;
+    width: 30vw;
+    background: rgb(210, 222, 37);
     
-    border-radius: 10px;
-    margin: 10px;
+    border-radius: 15px;
+    margin: 15px 560px;
     padding: 10px;
     cursor: pointer;
   }
