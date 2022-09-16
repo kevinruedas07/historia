@@ -8,17 +8,17 @@ function LaTeX(code) {
   
   let baseDePreguntas = [
         {
-        pregunta: "1 ¿Cuando termino la II Guerra Mundial?",
+        pregunta: "1 ¿Cuándo termino la II Guerra Mundial?",
         respuesta: "1945",
-        distractores: ["1947", " 1943"],
+        distractores: ["1947", "1943"],
         },
         {
-        pregunta: "2 ¿En que año llego Cristobal Colon a America?",
+        pregunta: "2 ¿En qué año llego Cristóbal Colon a América?",
         respuesta: "1492",
         distractores: ["1429", "1592"],
         },
         {
-        pregunta: "3 ¿Quién es el padre del psicoanalisis?",
+        pregunta: "3 ¿Quién es el padre del psicoanálisis?",
         respuesta: "Sigmund Freud",
         distractores: ["Carl Gustav Jung", "Skinner"],
         },
@@ -28,57 +28,57 @@ function LaTeX(code) {
         distractores: ["Benito Mussolini", "Heinrich Himmler"],
         },
         {
-        pregunta: "5 ¿Cual es el libro sagrado de los musulmanes?",
-        respuesta: "El Corin",
+        pregunta: "5 ¿Cuál es el libro sagrado de los musulmanes?",
+        respuesta: "El Corín",
         distractores: ["La Biblia", "El Talmud"],
         },
         {
-        pregunta: "6 ¿En que pais se usa la primera bomba atomica?",
-        respuesta: "Japon",
+        pregunta: "6 ¿En qué país se usa la primera bomba atómica?",
+        respuesta: "Japón",
         distractores: ["Rusia", "Estados Unidos"],
         },
         {
-        pregunta: "7 ¿Cual es el idioma mas antiguo que pervive en Europa?",
+        pregunta: "7 ¿Cuál es el idioma más antiguo que pervive en Europa?",
         respuesta: "Vasco",
-        distractores: ["Ingles", "Italiano"],
+        distractores: ["Inglés", "Italiano"],
         },
         {
-        pregunta: "8 ¿Como se llama la primera mujer que viaje al espacio?",
+        pregunta: "8 ¿Cómo se llama la primera mujer que viaje al espacio?",
         respuesta: "Valentina Tereshkova",
         distractores: ["Alexandra Tereshkova", "Amanda Tereshkova"],
         },
         {
-        pregunta: "9 ¿Cual fue el primer hombre en ir a la luna?",
+        pregunta: "9 ¿Cuál fue el primer hombre en ir a la luna?",
         respuesta: "Neil Armstrong",
         distractores: ["Louis Armstrong", "Alfred Armstrong"],
         },
         {
-        pregunta: "10 ¿En que guerra participo Juana de Arco?",
+        pregunta: "10 ¿En qué guerra participo Juana de Arco?",
         respuesta: "Guerra de los 100 años",
         distractores: [" Guerra de la independencia francesa", "Guerra Civil Española"],
         },
         {
-        pregunta: "11 ¿De que año es la primera constitucion española conocida como La Pepa?",
+        pregunta: "11 ¿De qué año es la primera constitución española conocida como La Pepa?",
         respuesta: "1812",
         distractores: ["1835", "1978"],
         },
         {
-        pregunta: "12 ¿Quien fue el primer emperador romano?",
+        pregunta: "12 ¿Quién fue el primer emperador romano?",
         respuesta: "Cesar Augusto",
         distractores: ["Julio Cesar", "Marco Aurelia"],
         },
         {
-        pregunta: "13 ¿En que isla murio Napoleon?",
+        pregunta: "13 ¿En qué isla murió Napoleón?",
         respuesta: "Santa Elena",
         distractores: ["Sicilia", "Creta"],
         },
         {
-         pregunta: "14 ¿Que año solo tuvo 355 dias?",
+         pregunta: "14 ¿Qué año solo tuvo 355 días?",
          respuesta: "1582",
          distractores: ["1615", "1823"],
         },
         {
-        pregunta: "15 ¿Que Libro es el mas leido?",
+        pregunta: "15 ¿Qué Libro es el más leído?",
         respuesta: "La biblia",
         distractores: ["La Enciclopedia", "El Diccionario"],
         },
