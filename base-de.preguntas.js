@@ -18,7 +18,7 @@ function LaTeX(code) {
         distractores: ["1429", "1592"],
         },
         {
-        pregunta: "3 ¿Quien es el padre del psicoanalisis?",
+        pregunta: "3 ¿Quién es el padre del psicoanalisis?",
         respuesta: "Sigmund Freud",
         distractores: ["Carl Gustav Jung", "Skinner"],
         },
@@ -33,7 +33,7 @@ function LaTeX(code) {
         distractores: ["La Biblia", "El Talmud"],
         },
         {
-        pregunta: "6 ¿En que pais se us? la primera bomba atomica?",
+        pregunta: "6 ¿En que pais se usa la primera bomba atomica?",
         respuesta: "Japon",
         distractores: ["Rusia", "Estados Unidos"],
         },
@@ -58,7 +58,7 @@ function LaTeX(code) {
         distractores: [" Guerra de la independencia francesa", "Guerra Civil Española"],
         },
         {
-        pregunta: "11 ¿De que año es la primera constitucion española conocida como La Pepa",
+        pregunta: "11 ¿De que año es la primera constitucion española conocida como La Pepa?",
         respuesta: "1812",
         distractores: ["1835", "1978"],
         },
